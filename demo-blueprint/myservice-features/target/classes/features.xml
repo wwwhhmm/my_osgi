@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<features>
+    <feature name="my-service" version="1.0-SNAPSHOT">
+        <feature>cxf</feature>
+		<feature>cxf-jaxrs</feature>
+        <bundle>mvn:com.whm/myservice-modular/1.0-SNAPSHOT</bundle>
+    </feature>
+</features>
